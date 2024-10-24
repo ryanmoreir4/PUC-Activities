@@ -1,0 +1,7 @@
+C:\Users\ryanm\Source\Repos\PUC-Activities\Algoritmos e Técnicas de Programação\Lista 1 - Nivelamento e Introdução\Exercício01\bin\Debug\ConsoleApp1.exe.config
+C:\Users\ryanm\Source\Repos\PUC-Activities\Algoritmos e Técnicas de Programação\Lista 1 - Nivelamento e Introdução\Exercício01\bin\Debug\ConsoleApp1.exe
+C:\Users\ryanm\Source\Repos\PUC-Activities\Algoritmos e Técnicas de Programação\Lista 1 - Nivelamento e Introdução\Exercício01\bin\Debug\ConsoleApp1.pdb
+C:\Users\ryanm\Source\Repos\PUC-Activities\Algoritmos e Técnicas de Programação\Lista 1 - Nivelamento e Introdução\Exercício01\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\ryanm\Source\Repos\PUC-Activities\Algoritmos e Técnicas de Programação\Lista 1 - Nivelamento e Introdução\Exercício01\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\ryanm\Source\Repos\PUC-Activities\Algoritmos e Técnicas de Programação\Lista 1 - Nivelamento e Introdução\Exercício01\obj\Debug\ConsoleApp1.exe
+C:\Users\ryanm\Source\Repos\PUC-Activities\Algoritmos e Técnicas de Programação\Lista 1 - Nivelamento e Introdução\Exercício01\obj\Debug\ConsoleApp1.pdb
